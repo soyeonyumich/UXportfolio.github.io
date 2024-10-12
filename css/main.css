@@ -109,15 +109,16 @@ header {
 .v174_827 {
   color: rgba(156, 106, 50, 1);
 }
-
-
+.section-container {
+  padding: 20px 10%;
+}
 .v116_2502 {
   padding-left: 10%;
   padding-right: 10%;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 20px;
-  margin-top: 20px;
+
   color: #383A39;
 }
 
@@ -129,7 +130,6 @@ header {
 .portfolio {
   display: flex;
   flex-direction: column;
-  gap: 20px;
   padding: 20px;
 }
 
