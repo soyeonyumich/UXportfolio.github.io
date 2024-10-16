@@ -134,7 +134,19 @@ a:hover {
     margin-bottom: 20px; /* Adjust this value to control the bottom margin */
     margin-top: 8%;
 }
+.web{
+    font-size: 22px;   
+     font-weight: bold;    
+     font-family: sans-serif;    
+     padding-top: 27px;    
+     padding-bottom: 15px;   
+     display: inline-block;
 
+}
+.section-container2 {
+    padding: 20px 10%;
+    text-align: center; /* Centers the content inside the container */
+  }
 
 .project-overview-container h2 {
     grid-column: span 3; /* Makes the title span across all columns */
