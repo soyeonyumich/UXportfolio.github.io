@@ -61,8 +61,17 @@ a:hover {
     margin-right: 30px;
   }
 .project-overview {
-    margin-top: 5%;
+    padding-left: 17%;
+    padding-right: 17%;
+    padding-top: 5%;
+    padding-bottom: 5%;
    
+}
+.project-overview2{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 .umichapp{
    margin-left: 30%;
@@ -273,8 +282,8 @@ h2 {
     padding-left: 10%;
     padding-right: 10%;
     position: center;
-    padding-bottom: 10%;
-    padding-top: 12px;
+    padding-bottom: 13%;
+    padding-top: 5%;
 }
 
 .rectangle {
