@@ -27,16 +27,9 @@ a:hover {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 16px;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(0, 0, 0, 1) !important;
   text-decoration: none;
   margin-right: 30px;
-}
-header {
-  width: 100%;
-  height: 73px;
-  background: rgba(219, 212, 204, 1);
-  position: relative;
-  z-index: 2;
 }
 
 .logo {
@@ -52,15 +45,17 @@ header {
   }
 
 .navbar {
-  background-color: rgba(219, 212, 204, 1);
+  background-color: rgb(255, 255, 255);
 }
 .navbar-brand{
   margin-left: 30px;
   margin-top: 5px;
 }
 
+
+
 .navbar-nav .nav-link:hover {
-  color: #555;
+  color: rgba(156, 106, 50, 1) !important;
 }
 
 @media (max-width: 768px) {
@@ -527,7 +522,7 @@ video {
 footer {
   text-align: center;
   padding: 20px;
-  background: rgba(219, 212, 204, 1);
+  background: rgb(255, 255, 255);
 }
 
 .v172_821{

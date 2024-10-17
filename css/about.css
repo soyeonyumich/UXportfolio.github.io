@@ -10,16 +10,8 @@ body {
     background-color: #ffffff;
     color: #000000;
 }
-header {
-    width: 100%;
-    height: 73px;
-    background-color: rgba(219, 212, 204, 1);
-    position: relative;
-    z-index: 2;
-}
-
 .navbar {
-    background-color: rgba(219, 212, 204, 1);
+    background-color: rgb(255, 255, 255);
 }
 .skills-coursework {
     background-color: #EFE7DB; /* Light beige background color */
@@ -106,12 +98,12 @@ p strong {
     font-family: 'Inter', sans-serif;
     font-weight: bold;
     font-size: 16px;
-    color: rgba(0, 0, 0, 1);
+    color: rgba(0, 0, 0, 1) !important;
     margin-right: 30px;
 }
 
 .navbar-nav .nav-link:hover {
-    color: #555;
+    color: rgba(156, 106, 50, 1) !important;
 }
 
 @media (max-width: 768px) {
@@ -136,15 +128,7 @@ a {
 a:hover {
     color: #555;
 }
-.navbar-nav .nav-item .nav-link {
-    margin-top: 8px; /* Moves the navigation text slightly down */
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 16px;
-    color: rgba(0, 0, 0, 1);
-    text-decoration: none;
-    margin-right: 30px;
-  }
+  
 
 
 .section-container {
@@ -166,7 +150,12 @@ a:hover {
     font-weight: bold;
     margin-bottom: 20px;
 }
-
+.navbar-toggler img {
+    display: block;
+    margin: auto;
+    /* Additional styles if needed */
+  }
+  
 .text-content .highlight {
     color: rgba(156, 106, 50, 1);
 }
@@ -192,7 +181,7 @@ a:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background: rgba(219, 212, 204, 1);
+    background: rgb(255, 255, 255);
   }
 .v172_821{
     display: center;

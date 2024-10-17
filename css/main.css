@@ -37,13 +37,14 @@ body {
   text-decoration: none;
   margin-right: 30px;
 }
-header {
-  width: 100%;
-  height: 73px;
-  background: rgba(219, 212, 204, 1);
-  position: relative;
-  z-index: 2;
+
+.navbar-toggler img {
+  display: block;
+  margin: auto;
+  /* Additional styles if needed */
 }
+
+
 
 .logo {
   height: 30px;
@@ -51,7 +52,7 @@ header {
 }
 
 .navbar {
-  background-color: rgba(219, 212, 204, 1);
+  background-color: rgb(255, 255, 255);
 }
 .navbar-brand{
   margin-left: 30px;
@@ -59,7 +60,7 @@ header {
 }
 
 .navbar-nav .nav-link:hover {
-  color: #555;
+  color: rgba(156, 106, 50, 1) !important;
 }
 
 @media (max-width: 768px) {
@@ -115,7 +116,7 @@ header {
   padding-left: 10%;
   padding-right: 10%;
   font-family: sans-serif;
-  font-weight: bold;
+  font-weight:bold;
   font-size: 20px;
   margin-top: 20px;
   color: #383A39;
@@ -198,7 +199,7 @@ header {
 footer {
   text-align: center;
   padding: 20px;
-  background: rgba(219, 212, 204, 1);
+  background: rgb(255, 255, 255);
 }
 
 .v172_821{
