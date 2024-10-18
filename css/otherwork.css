@@ -46,8 +46,8 @@ a:hover {
 
 .navbar-nav .nav-item .nav-link {
   margin-top: 8px; /* Moves the navigation text slightly down */
-  font-family: sans-serif;
-  font-weight: bold;
+  font-family: 'Nunito';
+  font-weight: normal;
   font-size: 16px;
   color: rgba(0, 0, 0, 1);
   text-decoration: none;

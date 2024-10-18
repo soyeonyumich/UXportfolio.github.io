@@ -22,8 +22,8 @@ a:hover {
 
 .navbar-nav .nav-item .nav-link {
     margin-top: 8px; /* Moves the navigation text slightly down */
-    font-family: sans-serif;
-    font-weight: bold;
+    font-family: 'Nunito';
+    font-weight: normal;
     font-size: 16px;
     color: rgba(0, 0, 0, 1);
     text-decoration: none;
@@ -111,12 +111,14 @@ a:hover {
     color: #000;
     font-weight: normal;
     font-size: 16px; 
+    font-family: 'Poppins'!important;
 }
 .project-overview-item span {
     display: block;
     color: #000;
     font-weight: normal;
     font-size: 16px;
+    font-family: 'Poppins'!important;
 }
 
 @media (max-width: 768px) {
@@ -165,6 +167,7 @@ h2 {
 }
 
 .h2pah {
+    padding-top: 2%;
     padding-left: 16%;
     padding-right: 15%;
     line-height: 20px;
@@ -178,7 +181,7 @@ h2 {
 .FRUSTRATING,
 .EXPERIENCES {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-weight: bold;
     font-size: 20px;
 }
@@ -213,14 +216,14 @@ h2 {
 
 .p2 {
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-size: 18px;
     padding: 12px 10%;
     line-height: 30px;
 }
 .p22{
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-size: 18px;
     
     padding: 12px 10% 30px;
@@ -236,7 +239,7 @@ h2 {
 }
 .p6{
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-size: 18px;
     padding-left: 10%;
     padding-top: 12px;
@@ -274,14 +277,17 @@ h2 {
 }
 
 .num1 {
+    font-family: 'Poppins'!important;
     font-size: 16px;
     padding-left: 12%;
     padding-right: 12%;
     padding-bottom: 50px;
 }
 .num{
+    padding-top: 2%;
     font-size: 16px;  
     line-height: 30px;
+    font-family: 'Poppins'!important;
 }
 .set {
     font-size: 16px;
@@ -378,7 +384,7 @@ video {
     color: #ffffff;
     font-size: 18px;
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     padding-top: 27px;
 }
 

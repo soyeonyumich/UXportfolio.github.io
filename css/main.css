@@ -4,7 +4,7 @@
 
 body {
   font-size: 14px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Nunito', sans-serif; 
   margin: 0;
   padding: 0;
   background-color: #ffffff;
@@ -30,8 +30,8 @@ body {
 
 .navbar-nav .nav-item .nav-link {
   margin-top: 8px; /* Moves the navigation text slightly down */
-  font-family: sans-serif;
-  font-weight: bold;
+  font-family: 'Nunito';
+  font-weight: normal;
   font-size: 16px;
   color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -75,7 +75,7 @@ body {
 
 
 .h2{
-  font-family: 'General Sans', sans-serif;
+  font-family: 'Nunito';
   font-weight: bold;
   color:rgb(48, 34, 17) ;
   font-size: 24px;
@@ -102,7 +102,7 @@ body {
 }
 
 .v116_2501 {
-  font-family: 'General Sans', sans-serif;
+  font-family: 'Nunito';
   font-weight: bold;
   font-size: 36px;
 }
@@ -115,8 +115,8 @@ body {
 .v116_2502 {
   padding-left: 10%;
   padding-right: 10%;
-  font-family: sans-serif;
-  font-weight:bold;
+  font-family: 'Poppins';
+  font-weight: medium;
   font-size: 20px;
   margin-top: 20px;
   color: #383A39;

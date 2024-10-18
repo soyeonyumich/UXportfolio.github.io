@@ -88,8 +88,8 @@ a:hover {
   
   .navbar-nav .nav-item .nav-link {
     margin-top: 8px; /* Moves the navigation text slightly down */
-    font-family: sans-serif;
-    font-weight: bold;
+    font-family: 'Nunito';
+    font-weight: normal;
     font-size: 16px;
     color: rgba(0, 0, 0, 1) !important;
     text-decoration: none;
@@ -177,12 +177,14 @@ a:hover {
     color: #000;
     font-weight: normal;
     font-size: 16px; 
+    font-family: 'Poppins';
 }
 .project-overview-item span {
     display: block;
     color: #000;
     font-weight: normal;
     font-size: 16px;
+    font-family: 'Poppins';
 }
 
 @media (max-width: 768px) {
@@ -238,7 +240,7 @@ h1 {
     font-weight: bolder;
     font-family: sans-serif;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 6%;
 }
 
 h2 {
@@ -250,6 +252,7 @@ h2 {
 }
 
 .h2pah {
+    padding-top: 2%;
     padding-left: 16%;
     padding-right: 15%;
     line-height: 20px;
@@ -263,7 +266,7 @@ h2 {
 .FRUSTRATING,
 .EXPERIENCES {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-weight: bold;
     font-size: 20px;
 }
@@ -304,14 +307,14 @@ h2 {
 
 .p2 {
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-size: 18px;
     padding: 12px 10%;
     line-height: 30px;
 }
 .p22{
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins'!important;
     font-size: 18px;
     
     padding: 12px 10% 30px;
@@ -470,7 +473,7 @@ video {
     color: #ffffff;
     font-size: 18px;
     font-weight: normal;
-    font-family: sans-serif;
+    font-family:'Poppins'!important;
     padding-top: 27px;
 }
 
@@ -510,7 +513,7 @@ video {
     color: #ffffff;
     font-size: 18px;
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins';
     padding-left: 15%;
     padding-top: 27px;
   }
@@ -697,8 +700,8 @@ h2 {
 }
 
 .key {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 13%;
+    padding-right: 13%;
     position: center;
 }
 

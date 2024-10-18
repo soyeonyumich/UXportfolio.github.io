@@ -24,8 +24,8 @@ a:hover {
 /* Adjusting the navigation text position */
 .navbar-nav .nav-item .nav-link {
   margin-top: 8px; /* Moves the navigation text slightly down */
-  font-family: sans-serif;
-  font-weight: bold;
+  font-family: 'Nunito';
+  font-weight: normal;
   font-size: 16px;
   color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -101,12 +101,14 @@ a:hover {
 .project-overview-item2 span{
   display: block;
   color: #000;
+  font-family: 'Poppins'!important;
   font-weight: normal;
   font-size: 16px; 
 }
 .project-overview-item span {
   display: block;
   color: #000;
+  font-family: 'Poppins'!important;
   font-weight: normal;
   font-size: 16px;
 }
@@ -173,7 +175,7 @@ h1 {
   font-weight: bolder;
   font-family: sans-serif;
   text-align: center;
-  padding-top: 10%;
+  padding-top: 7%;
 }
 
 h2 {
@@ -185,6 +187,7 @@ h2 {
 }
 
 .h2pah {
+  padding-top: 2%;
   padding-left: 16%;
   padding-right: 15%;
   line-height: 20px;
@@ -198,7 +201,7 @@ h2 {
 .FRUSTRATING,
 .EXPERIENCES {
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   font-weight: bold;
   font-size: 20px;
   
@@ -209,7 +212,10 @@ h2 {
 .FRUSTRATING {
   color: #E24A60;
 }
-
+.flow2{
+  padding-left: 10%;
+  padding-right: 10%;
+}
 .p1 {
   font-size: 22px;
   font-weight: bold;
@@ -221,7 +227,7 @@ h2 {
 
 .p2 {
   font-weight: normal;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   font-size: 18px;
   padding-left: 10%;
   padding-top: 12px;
@@ -256,7 +262,7 @@ h2 {
 
 .flowp {
   font-weight: normal;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   font-size: 20px;
   padding-left: 10%;
   padding-right: 10%;
@@ -264,25 +270,28 @@ h2 {
 
 .flowp2 {
   font-weight: normal;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   font-size: 20px;
   padding-left: 10%;
   padding-right: 10%;
 }
 
 .flow {
+  font-family: 'Poppins'!important;
   text-align: left;
   padding-left: 10%;
   font-size: 20px;
 }
 
 .cognitive {
+  font-family: 'Poppins'!important;
   text-align: center;
   padding-left: 15%;
   font-size: 20px;
 }
 
 .collage {
+  font-family: 'Poppins'!important;
   text-align: right;
   padding-right: 10%;
   padding-left: 10%;
@@ -338,9 +347,16 @@ h2 {
   
 
 .persona{
+  padding-top: 2%;
   padding-left: 20%;
   padding-right: 20%;
 
+
+}
+.collage2{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom:2%;
 }
 .high{
   padding-top: 15px;
@@ -349,6 +365,8 @@ h2 {
   padding-bottom: 50px;
 }
 .num{
+  font-family: 'Poppins'!important;
+  padding-top: 2%;
   font-size: 16px;
   padding-left: 12%;
   padding-right: 12%;
@@ -356,6 +374,8 @@ h2 {
   font-weight: bold;
 }
 .num1{
+  font-family: 'Poppins'!important;
+  padding-top: 3%;
   font-size: 16px;
   padding-left: 12%;
   padding-right: 12%;
@@ -391,13 +411,13 @@ footer {
   color: #ffffff;
   font-size: 18px;
   font-weight: normal;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   padding-left: 15%;
   padding-top: 27px;
 }
 .p6{
   font-weight: normal;
-  font-family: sans-serif;
+  font-family: 'Poppins'!important;
   font-size: 18px;
   padding-left: 10%;
   padding-top: 12px;
